@@ -369,7 +369,6 @@ micro.rubiconproject.com
 ml314.com
 mv.outbrain.com
 nbcume.hb.omtrdc.net
-news.google.com
 normandy.cdn.mozilla.net
 ntp.msn.com
 ntv.io
@@ -493,7 +492,6 @@ static.criteo.net
 stats.g.doubleclick.net
 steadfastseat.com
 substrate.office.com
-suggestqueries.google.com
 sync.1rx.io
 sync.colossusssp.com
 sync.cootlogix.com
@@ -556,7 +554,6 @@ www.datadoghq-browser-agent.com
 www.expressapisv2.net
 www.facebook.com
 www.google-analytics.com
-www.google.com
 www.googletagmanager.com
 www.googletagservices.com
 www.i.cdn.cnn.com
