@@ -312,7 +312,6 @@ id5-sync.com
 idsync.rlcdn.com
 idx.liadm.com
 image8.pubmatic.com
-images.macrumors.com
 images.revcontent.com
 imasdk.googleapis.com
 img.vidible.tv
