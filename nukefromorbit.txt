@@ -53,4 +53,6 @@ tyler.logs.roku.com
 victoria.logs.roku.com
 westus-0.in.applicationinsights.azure.com
 windsor.logs.roku.com
+www.roku.com
+www.roku.com.cdn.cloudflare.net
 wwwimg.roku.com
