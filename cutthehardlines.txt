@@ -347,7 +347,6 @@ locprod1-elb-eu-west-1.prod.mozaws.net
 locprod2-elb-us-west-2.prod.mozaws.net
 logger.adthrive.com
 logx.optimizely.com
-m.media-amazon.com
 mab.chartbeat.com
 mabping.chartbeat.net
 magnetic.t.domdex.com.ingang7.com
