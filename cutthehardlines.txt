@@ -26,6 +26,7 @@ adnxs.com
 ads-twitter.com
 ads.adthrive.com
 ads.google.com
+ads.peacocktv.com
 ads.pubmatic.com
 ads.rubiconproject.com
 ads.yieldmo.com
@@ -116,6 +117,7 @@ agkn.com
 amazon-adsystem.com
 amplify.outbrain.com
 ampproject.org
+analytics.peacocktv.com
 analytics.snidigital.com
 analytics.twitter.com
 ap.lijit.com
@@ -269,6 +271,7 @@ eus.rubiconproject.com
 evs.jivox.com
 exchange.postrelease.com
 experience.tinypass.com
+f701e91aabed43fa8064e91da398bfbc.mediatailor.us-east-1.amazonaws.com
 facebook.com
 facebook.net
 fastlane.rubiconproject.com
@@ -278,6 +281,7 @@ flourishingpartnership.com
 frr.re.cs.quickconnect.to
 fw.adsafeprotected.com
 fwmrm.net
+g008-vod-us-cmaf-prd-fy.cdn.peacocktv.com
 g2.gumgum.com
 gcdn.2mdn.net
 gekko.spiceworks.com
@@ -359,6 +363,8 @@ mcdp-nydc1.outbrain.com
 media.cnn.com
 media.net
 medianet-match.dotomi.com
+mediatailor.amazonaws.com
+mediatailor.us-east-1.amazonaws.com
 medium.ngtv.io
 metadata.tencentyun.com
 metrics.ol.epicgames.com
