@@ -1,0 +1,11 @@
+# Slow additions that have become their own list
+207.241.224.2
+ads.peacocktv.com
+analytics.peacocktv.com
+api.rpay.roku.com
+default.exp-tas.com
+f701e91aabed43fa8064e91da398bfbc.mediatailor.us-east-1.amazonaws.com
+g008-vod-us-cmaf-prd-fy.cdn.peacocktv.com
+mediatailor.amazonaws.com
+mediatailor.us-east-1.amazonaws.com
+psartimages.web.roku.com
