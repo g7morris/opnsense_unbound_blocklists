@@ -1,4 +1,5 @@
 # From https://gist.github.com/ozankiratli/801ba17705e7f2a904d2e443af5a64f8
+# With thanks and all credit due to Ozan Kiratli (Dr. evo) @ozankiratli
 bif.sr.roku.com
 microsites.sr.roku.com
 userdata.sr.roku.com
